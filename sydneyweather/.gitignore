@@ -1,0 +1,12 @@
+*.iml
+.gradle/
+.DS_Store
+build/
+captures/
+out/
+.idea/
+*.apk
+release.properties
+gradle.properties
+local.properties
+/.nb-gradle/
